@@ -41,9 +41,10 @@ Verifique se a instalação foi bem-sucedida:
 terraform -v
 ```
 
-Navegue até a pasta do projeto (onde estão os arquivos do Terraform) e inicialize o diretório de trabalho:
+Navegue até a pasta do projeto (onde estão os arquivos do Terraform) e inicialize o diretório de trabalho e valie e aplique a estrututa:
 ```bash
 terraform init
+terraform apply
 ```
 
 ---
